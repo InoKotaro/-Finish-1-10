@@ -32,7 +32,7 @@
     }
 
     .title{
-        line-height: 3;
+        padding: 15px 0 5px 0;
     }
 
     .content:last-child{
@@ -48,21 +48,21 @@
     }
 
     .step1-img{
-        height: 160px;
+        height: 150px;
         background-image: url(img/flow01.png);
         background-position: bottom;
         background-size: cover;
     }
 
     .step2-img{
-        height: 160px;
+        height: 150px;
         background-image: url(img/flow02.png);
         background-position: bottom;
         background-size: cover;
     }
     
     .step3-img{
-        height: 160px;
+        height: 150px;
         background-image: url(img/flow03.png);
         background-position: bottom;
         background-size: cover;
